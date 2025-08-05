@@ -48,7 +48,7 @@ export default function Bottom_logo() {
           </textPath>
         </text>
       </svg>
-      <img src="/img/down-logo.png" alt="Логотип" ref={imageRef} />
+      <img src="./img/down-logo.png" alt="Логотип" ref={imageRef} />
     </div>
   );
 }

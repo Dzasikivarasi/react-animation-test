@@ -16,7 +16,7 @@ export default function Video({ isActive }) {
   return (
     <div className={`banner__video ${animationClass}`}>
       <video
-        src="/img/banner-video.mp4"
+        src="./img/banner-video.mp4"
         autoPlay
         muted
         loop
